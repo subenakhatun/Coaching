@@ -76,7 +76,7 @@
     }
 }  
 
-@media screen and (min-width: 330px) and (max-width: 575px) {
+@media screen and (min-width: 330px) and (max-width: 574px) {
     .manu{
         display: none;
     }
